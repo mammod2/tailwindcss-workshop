@@ -1,6 +1,6 @@
 # tailwindcss-workshop
 
-In this file contains sample code for Instagram clone using vanilla CSS and Instagram clone using Tailwind CSS.
+In this project contains sample code for Instagram clone using vanilla CSS and Instagram clone using Tailwind CSS.
 The goal of this workshop is to introduce tailwind CSS for UI development and its benefits
 
 If I managed to record my lesson I will put a link to that workshop here
